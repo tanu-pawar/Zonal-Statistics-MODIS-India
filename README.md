@@ -1,4 +1,4 @@
-District-Level Vegetation and Land Surface Temperature Analysis (2001–2003 vs 2024–2025)
+**District-Level Vegetation and Land Surface Temperature Analysis (2001–2003 vs 2024–2025)**
 Project Overview
 
 This project analyzes long-term changes in vegetation and land surface temperature across Indian districts using MODIS satellite datasets. The study compares two time periods:
@@ -9,7 +9,7 @@ Recent period (2024–2025)
 
 The objective is to understand spatial patterns of vegetation cover and surface temperature and assess environmental changes over time.
 
-Datasets Used
+**Datasets Used**
 
 The following MODIS datasets from NASA were used:
 
@@ -21,7 +21,7 @@ MOD11A1 – Land Surface Temperature (Daytime LST)
 
 All datasets were accessed and processed using Google Earth Engine.
 
-Study Area
+**Study Area**
 
 Country: India
 
@@ -31,7 +31,7 @@ Projection: WGS 1984 (EPSG: 4326)
 
 District boundary data was used for zonal statistical analysis.
 
-Variables Analyzed
+**Variables Analyzed**
 
 Percent Tree Cover (%)
 
@@ -39,7 +39,7 @@ Leaf Area Index (LAI)
 
 Land Surface Temperature (°C)
 
-Methodology
+**Methodology**
 
 The analysis was conducted using Google Earth Engine and ArcGIS Pro.
 
@@ -75,7 +75,7 @@ Comparative layouts were designed in ArcGIS Pro.
 
 At least one statistical plot was created to compare district averages.
 
-Key Observations
+**Key Observations**
 
 Certain districts show decline in vegetation cover.
 
